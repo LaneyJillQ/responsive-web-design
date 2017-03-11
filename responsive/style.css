@@ -1,0 +1,13 @@
+@import url("large.css") (max-width: 1600px);
+@import url("medium.css") (max-width: 800px);
+@import url("small.css") (max-width: 480px);
+
+body {
+  background-color: red;
+}
+
+/*@media (max-width: 800px) {
+ body {
+   background-color: red;
+ }
+}*/
